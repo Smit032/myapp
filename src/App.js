@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Smit Patel
+          Sparkle
         </a>
       </header>
     </div>
